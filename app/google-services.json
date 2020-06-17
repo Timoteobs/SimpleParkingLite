@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352292625593",
+    "firebase_url": "https://simple-7b650.firebaseio.com",
+    "project_id": "simple-7b650",
+    "storage_bucket": "simple-7b650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352292625593:android:39d6348f00296e67954f68",
+        "android_client_info": {
+          "package_name": "com.example.simpleparkinglite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352292625593-j1vaqr139acoq3rb53vjitv097kvu94h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleparkinglite",
+            "certificate_hash": "5678b95889effdd8e04c356b1f05a394fa18d1e0"
+          }
+        },
+        {
+          "client_id": "352292625593-4vvfesqcegunoi2gu3vpnpfg5k60710n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS85YF5KQJMb0ZVzxaVmO2WVNHAXPGdW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352292625593-4vvfesqcegunoi2gu3vpnpfg5k60710n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
